@@ -8,7 +8,8 @@
 * Git
 * Broswer
 * Github
-## Known Bugs
+## live demo
+https://github.com/kuya-ui/favorite-band/blob/main/
 ## Technologies Used
 HTML and CSS
 ## Support and contact details
