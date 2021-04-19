@@ -1,0 +1,13 @@
+container-wrapper{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: unset;
+    color: rgb(14, 207, 24);
+}
+songs-1{
+   display: flex;
+   justify-content: center;
+    background-position: center;
+    height: 100px;
+    width: 50%;
+    overflow: auto;
+}
