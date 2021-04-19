@@ -11,3 +11,10 @@ songs-1{
     width: 50%;
     overflow: auto;
 }
+songs-1{
+    background-position: center;
+    height: 200px;
+    width: 46%;
+    overflow: auto;
+    color: turquoise;
+}
