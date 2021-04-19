@@ -42,3 +42,12 @@ h1 {
       overflow: auto;
       color: #000;
   }
+  h1 {
+    color: blue;
+    text-align: center;
+  }
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color: teal;
+  }
